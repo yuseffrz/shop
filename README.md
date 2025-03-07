@@ -7,5 +7,5 @@
 git status
 git add
 git commit
-git pull
+git clone
 ```
